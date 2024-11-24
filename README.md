@@ -111,9 +111,12 @@ This tutorial walks you through the process of creating and managing network fil
 ![2]()
 <br>
 
----
+<div style="border-left: 4px solid lightskyblue; padding: 10px; background-color: #F0F8FF;">
 
->You now have successfully set up network file shares and configured permissions using Active Directory. For more details, visit the [Microsoft Support Page](https://support.microsoft.com/en-us).
+You now have successfully set up network file shares and configured permissions using Active Directory. For more details, visit the [Microsoft Support Page](https://support.microsoft.com/en-us).
+
+</div>
+
 
 ## FAQ
 
@@ -126,6 +129,7 @@ A: Ensure that the user is added to the correct security group and that the shar
 ---
 
 ## Conclusion
+<div style="border-left: 4px solid blueviolet; padding: 10px; background-color: #E6E6FA;">
 
-> **Important**  
->🎉 You’ve successfully configured network file shares with Active Directory permissions! 🎉
+  🎉 You’ve successfully configured network file shares with Active Directory permissions! 🎉
+</div>
