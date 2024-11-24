@@ -34,8 +34,11 @@ This tutorial walks you through the process of creating and managing network fil
 1. Create two remote desktop instances: one as a Domain Controller (DC-1) and one as a client machine (Client-1).
 2. Log in to the domain controller as an admin and to the client PC as a normal user.
 
-![1]()
-![2]()
+![1](https://i.imgur.com/EakkaxS.png)
+Domain Controller (DC-1)
+![2](https://i.imgur.com/Iaizm3X.png)
+Client machine (Client-1)
+![2](https://i.imgur.com/iAmweu3.png)
 <br>
 
 ### Step 2: Create File Share Folders on the Domain Controller
@@ -43,8 +46,8 @@ This tutorial walks you through the process of creating and managing network fil
 1. On DC-1, open **Windows Explorer** and navigate to the **C:\ drive**.
 2. Create four folders: **read-access**, **write-access**, **no-access**, and **accounting**.
 
-![1]()
-![2]()
+![1](https://i.imgur.com/lvZIbwg.png)
+![2](https://i.imgur.com/UMErmIs.png)
 <br>
 
 ### Step 3: Configure Sharing Permissions
