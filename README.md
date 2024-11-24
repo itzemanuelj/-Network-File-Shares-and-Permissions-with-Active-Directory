@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://imgur.com/a/dWwNws5" height="40%" width="60%" alt="Logo"/>
+<img src="https://i.imgur.com/wUBo4Vj_d.jpeg?maxwidth=520&shape=thumb&fidelity=high" height="40%" width="60%" alt="Logo"/>
 </p>
 
 # Network File Shares and Permissions with Active Directory
@@ -16,8 +16,8 @@ This tutorial walks you through the process of creating and managing network fil
 - **Organization Units**
 
 ## Operating Systems Used
-- **Windows 10 (21H2)**
-- **Windows Server 2019 Datacenter (1809)**
+- **Windows 10**
+- **Windows Server 2019**
 
 ## List of Prerequisites
 - **Active Directory Domain Controller setup**
