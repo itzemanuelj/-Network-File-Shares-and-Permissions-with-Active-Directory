@@ -25,7 +25,6 @@ This tutorial walks you through the process of creating and managing network fil
 - **Basic knowledge of Active Directory and file sharing**
 - **Remote Desktop access to Azure VMs**
 
----
 
 ## Installation Steps
 
@@ -62,7 +61,6 @@ Client machine (Client-1)
 ![1](https://i.imgur.com/97PbZFV.png)
 ![2](https://i.imgur.com/zo2t2ya.png)
 ![3](https://i.imgur.com/T5g1283.png)
-
 <br>
 
 ### Step 4: Test Access on Client-1
@@ -81,7 +79,6 @@ Write Only Access
 ![2](https://i.imgur.com/N6mLxLH.png)
 No Access
 ![2](https://i.imgur.com/cXdtPNx.png)
-
 <br>
 
 ### Step 5: Create and Assign an "ACCOUNTANTS" Security Group
@@ -92,7 +89,6 @@ No Access
 
 ![1](https://i.imgur.com/wiCSA2f.png)
 ![2](https://i.imgur.com/9TRGbhl.png)
-
 <br>
 
 ### Step 6: Set Permissions for the "accounting" Folder
@@ -127,7 +123,6 @@ No Access
 You now have successfully set up network file shares and configured permissions using Active Directory. For more details, visit the [Microsoft Support Page](https://support.microsoft.com/en-us).
 
 </div>
-
 
 ## FAQ
 
