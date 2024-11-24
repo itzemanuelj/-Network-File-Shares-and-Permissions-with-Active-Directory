@@ -34,9 +34,9 @@ This tutorial walks you through the process of creating and managing network fil
 2. Log in to the domain controller as an admin and to the client PC as a normal user.
 
 ![1](https://i.imgur.com/EakkaxS.png)
-Domain Controller (DC-1)
+**Domain Controller (DC-1)**
 ![2](https://i.imgur.com/Iaizm3X.png)
-Client machine (Client-1)
+**Client machine (Client-1)**
 ![2](https://i.imgur.com/iAmweu3.png)
 <br>
 
@@ -73,11 +73,11 @@ Client machine (Client-1)
 
 ![1](https://i.imgur.com/6dmZfzQ.png)
 ![2](https://i.imgur.com/BYvlvLX.png)
-Read Only Access (Cannot Create a File)
+**Read Only Access (Cannot Create a File)**
 ![2](https://i.imgur.com/ohBlpf5.png)
-Write Only Access
+**Write Only Access**
 ![2](https://i.imgur.com/N6mLxLH.png)
-No Access
+**No Access**
 ![2](https://i.imgur.com/cXdtPNx.png)
 <br>
 
