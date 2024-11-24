@@ -59,8 +59,10 @@ Client machine (Client-1)
    - **write-access**: Read/Write permissions
    - **no-access**: Deny access to normal users (assign **Domain Admins** Read/Write access)
 
-![1]()
-![2]()
+![1](https://i.imgur.com/97PbZFV.png)
+![2](https://i.imgur.com/zo2t2ya.png)
+![3](https://i.imgur.com/T5g1283.png)
+
 <br>
 
 ### Step 4: Test Access on Client-1
@@ -71,8 +73,15 @@ Client machine (Client-1)
    - **write-access**: Edit and save the file.
    - **no-access**: You should see an error indicating access is denied.
 
-![1]()
-![2]()
+![1](https://i.imgur.com/6dmZfzQ.png)
+![2](https://i.imgur.com/BYvlvLX.png)
+Read Only Access so I Cannot Create a File
+![2](https://i.imgur.com/ohBlpf5.png)
+Write Only Access
+![2](https://i.imgur.com/N6mLxLH.png)
+No Access
+![2](https://i.imgur.com/cXdtPNx.png)
+
 <br>
 
 ### Step 5: Create and Assign an "ACCOUNTANTS" Security Group
