@@ -75,7 +75,7 @@ Client machine (Client-1)
 
 ![1](https://i.imgur.com/6dmZfzQ.png)
 ![2](https://i.imgur.com/BYvlvLX.png)
-Read Only Access so I Cannot Create a File
+Read Only Access (Cannot Create a File)
 ![2](https://i.imgur.com/ohBlpf5.png)
 Write Only Access
 ![2](https://i.imgur.com/N6mLxLH.png)
@@ -90,8 +90,9 @@ No Access
 2. Create a new **Organizational Unit** (OU) called **_SECURITY_GROUP**.
 3. Create a **Group** named **ACCOUNTANTS** within this OU, selecting **Global** for group scope and **Security** for group type.
 
-![1]()
-![2]()
+![1](https://i.imgur.com/wiCSA2f.png)
+![2](https://i.imgur.com/9TRGbhl.png)
+
 <br>
 
 ### Step 6: Set Permissions for the "accounting" Folder
@@ -100,8 +101,7 @@ No Access
 2. Add the **ACCOUNTANTS** group and grant **Read/Write** permissions.
 3. Share the folder.
 
-![1]()
-![2]()
+![1](https://i.imgur.com/kvwSEWf.png)
 <br>
 
 ### Step 7: Assign User to the "ACCOUNTANTS" Group
@@ -109,8 +109,8 @@ No Access
 1. In **Active Directory**, add the appropriate user to the **ACCOUNTANTS** group.
 2. Right-click the group → **Properties** → **Members** → **Add** → search and add the user.
 
-![1]()
-![2]()
+![1](https://i.imgur.com/BEthIO2.png)
+![2](https://i.imgur.com/wRMC5Tc.png)
 <br>
 
 ### Step 8: Log Off and Log In on Client-1
@@ -119,8 +119,7 @@ No Access
 2. Open **Windows File Explorer**, navigate to `\\DC-1`, and open the **accounting** folder.
 3. Test if you can access, edit, and save the file.
 
-![1]()
-![2]()
+![1](https://i.imgur.com/88NrMUt.png)
 <br>
 
 <div style="border-left: 4px solid lightskyblue; padding: 10px; background-color: #F0F8FF;">
