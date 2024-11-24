@@ -1,5 +1,5 @@
 <p align="center">
-<img src="" height="40%" width="60%" alt="Logo"/>
+<img src="https://imgur.com/a/dWwNws5" height="40%" width="60%" alt="Logo"/>
 </p>
 
 # Network File Shares and Permissions with Active Directory
